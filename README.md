@@ -2,4 +2,4 @@
 Linux From Scratch Translation English to Swedish
 
 Version 9.1
-Translated for learning purposes
+Translated by me for learning purposes
